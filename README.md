@@ -6,16 +6,16 @@ We focus on **practical, incremental improvements** that drive real business out
 
 ## What We Do
 
-- **CMMI®** – SCAMPI A/B/C appraisals; maturity level roadmaps; process design and automation  
-- **HITRUST** – risk-based controls and assessment readiness (service listed as “Coming Soon”)  
-- **CMMC** – implementation support aligned with CMMC program requirements  
-- **ISO** – ISO-based frameworks for continual improvement and in-scope process quality  
-- **SOC & IT Auditing** – SOC attestations, control design, and audit support  
+- **CMMI®** - SCAMPI A/B/C appraisals; maturity level roadmaps; process design and automation  
+- **HITRUST** - risk-based controls and assessment readiness (service listed as “Coming Soon”)  
+- **CMMC** - implementation support aligned with CMMC program requirements  
+- **ISO** - ISO-based frameworks for continual improvement and in-scope process quality  
+- **SOC & IT Auditing** - SOC attestations, control design, and audit support  
 - **Software & Systems Engineering** – CMMI, Six Sigma  
-- **Cybersecurity** – NIST 800-171, Risk Management Framework  
-- **IT Service Management (ITSM)** – ITIL-based practices  
-- **Manufacturing** – ISO and Six Sigma  
-- **Engineering Expertise** – project management, ITSM, metrics, change, risk, quality assurance, and people management  
+- **Cybersecurity** - NIST 800-171, Risk Management Framework  
+- **IT Service Management (ITSM)** - ITIL-based practices  
+- **Manufacturing** - ISO and Six Sigma  
+- **Engineering Expertise** - project management, ITSM, metrics, change, risk, quality assurance, and people management  
 
 ## Our Approach
 
@@ -48,7 +48,7 @@ We use this organization to share:
 - Location: Ashburn, Virginia, USA  
 
 > “His approach is purely practical, especially for a small business.”  
-> — Client testimonial (GovCon/DoD focus)
+> - Client testimonial (GovCon/DoD focus)
 
 ---
 
