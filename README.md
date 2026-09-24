@@ -1,6 +1,6 @@
 # About
 
-**TiQHUB** is a management and technical consulting firm that helps organizations elevate performance across product development, service excellence, workforce management, data management, supplier management, and cybersecurity—using industry best-practice frameworks in services, systems, and software engineering.
+**TiQHUB** is a management and technical consulting firm that helps organizations elevate performance across product development, service excellence, workforce management, data management, supplier management, and cybersecurity-using industry best-practice frameworks in services, systems, and software engineering.
 
 We focus on **practical, incremental improvements** that drive real business outcomes, not just audit artifacts.
 
